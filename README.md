@@ -26,28 +26,13 @@
 
 <br/>
 
-<p align="center">
-   <img src="imgs/img3.png" width="15"/>   <em><b> Project Manager in Web3 & HRTech </b></em> <br/>
-   <img src="imgs/img4.png" width="15"/>   <em><b> Actively exploring AI </b></em><br/>
-   <img src="imgs/img2.png" width="15"/>   <em><b> Building tools for Telegram API </b></em><br/>
-</p>
-
 <br/>
-<br/>
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Tecnologias </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br/>
-
-<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levatei&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
