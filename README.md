@@ -18,9 +18,9 @@
 <br/>
 
 <p>
-  Hello! <em><b>I'm Denis</b></em>, a Project Manager in Web3 & HRTech.
-  I enjoy learning new technologies and am currently actively exploring AI.
-  Here on GitHub, I experiment with various pet projects and build tools for working more efficiently with the Telegram API.
+  Olá! <em><b>Sou Thavenny</b></em>, Iniciante em Técnico de Desenvolvimento de Sistemas
+  Aprecio aprender novas tecnologias e atualmente estou explorando ativamente a Inteligência Artificial e novas Linguagens da Programação.
+  Aqui no GitHub, eu experimento com projetos pessoais.
 </p>
 
 
