@@ -21,6 +21,9 @@
      
   <code>>Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas</code>
   Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
+   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+  
+  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
 </p>
 
 
