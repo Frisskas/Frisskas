@@ -27,7 +27,7 @@
 </div>
 
 <h2 align="center"> 
-  <img src="https://github.com/Frisskas/Frisskas/blob/main/0490b20ab0113ed5f1888dbf8aa942fb-removebg-preview.png" width="25"/> 
+  <img src="https://github.com/Frisskas/Frisskas/blob/main/9f564950b82045505237e24daca60cd5-removebg-preview.png" width="25"/> 
   <em>Tecnologias</em> 
 </h2>
 
