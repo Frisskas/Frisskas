@@ -19,8 +19,8 @@
 
 <p>
      
-  <code>>Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas
-  Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python </code>
+  <code>>Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas</code>
+  Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
 </p>
 
 
