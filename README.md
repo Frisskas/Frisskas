@@ -20,7 +20,7 @@
   <img src="https://github.com/Frisskas/Frisskas/blob/main/0490b20ab0113ed5f1888dbf8aa942fb-removebg-preview.png" width="210" align="left" style="margin-right: 15px; margin-bottom: 5px;">
   
   <h3>Olá! <b>Sou Thavenny</b></h3>
-  Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python e à exploração de Inteligência Artificial. Aqui no GitHub, eu experimento com projetos pessoais.
+  Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
   
   <br clear="both"/>
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
