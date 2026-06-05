@@ -18,9 +18,9 @@
 <br/>
 
 <p>
-     <div align="center">
-  <h2>Sobre mim</h2>
+    
 </div>
+<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
   <code>>Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas</code>
   Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
    <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
