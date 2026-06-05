@@ -15,17 +15,16 @@
   <em>Sobre mim</em>
 </h2>
 
-<img src="avatar.gif" width="250" align="right" style="margin-left: 20px;" />
-<img src="https://github.com/Frisskas/Frisskas/blob/main/0490b20ab0113ed5f1888dbf8aa942fb-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
-
 <div align="justify">
+  <img src="avatar.gif" width="250" align="right" style="margin-left: 20px; margin-bottom: 5px;" />
+  <img src="https://github.com/Frisskas/Frisskas/blob/main/0490b20ab0113ed5f1888dbf8aa942fb-removebg-preview.png" width="210" align="left" style="margin-right: 15px; margin-bottom: 5px;">
+  
   <h3>Olá! <b>Sou Thavenny</b></h3>
   Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python e à exploração de Inteligência Artificial. Aqui no GitHub, eu experimento com projetos pessoais.
-  <hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 5px;">
+  
+  <br clear="both"/>
+  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
-
-<br clear="left"/>
-<br clear="right"/>
 
 <h2 align="center"> 
   <img src="imgs/title2.png" width="25"/> 
