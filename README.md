@@ -23,7 +23,7 @@
   Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
    <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
+  <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
 </p>
 
 
