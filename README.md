@@ -18,9 +18,8 @@
 <br/>
 
 <p>
-  Olá! <em><b>Sou Thavenny</b></em>, Iniciante em Técnico de Desenvolvimento de Sistemas
-  Aprecio aprender novas tecnologias e atualmente estou explorando ativamente a Inteligência Artificial e novas Linguagens da Programação.
-  Aqui no GitHub, eu experimento com projetos pessoais.
+  Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas
+  Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python 
 </p>
 
 
