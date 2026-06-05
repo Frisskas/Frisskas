@@ -21,8 +21,8 @@
     
 </div>
 <img src="https://github.com/Frisskas/Frisskas/blob/main/0490b20ab0113ed5f1888dbf8aa942fb-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
-  <h3> <code>>Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas</code> </h3>
-  Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
+  <h3> <code>>Olá! <em><b>Sou Thavenny</b></em></code> </h3>
+  Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python
    <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
 </p>
