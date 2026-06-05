@@ -18,6 +18,7 @@
 <br/>
 
 <p>
+    <code>> print("Hello World! I am Victoria Suares.")</code>
   Olá! <em><b>Sou Thavenny</b></em>, Estudante do Ensino Médio integrado com Técnico de Desenvolvimento de Sistemas
   Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python 
 </p>
