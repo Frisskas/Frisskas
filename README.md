@@ -15,7 +15,7 @@
   <em>Sobre mim</em>
 </h2>
 
-<div align="center">
+<div align="both">
   <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="210" align="left" style="margin-right: 20px; margin-bottom: 5px;">
   
 <h3>Olá! Sou Thavenny </h3>
