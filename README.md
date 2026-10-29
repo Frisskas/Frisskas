@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center"> 
-  <img src="https://github.com/Frisskas/README.md/blob/main/3e432870b5440a9d71f0385db85c496d-removebg-preview.png" width="25"/> 
+  <img src="https://github.com/Frisskas/Frisskas/blob/main/output-onlinegiftools%20(2).gif" width="25"/> 
   <em>Sobre mim</em>
 </h2>
 
