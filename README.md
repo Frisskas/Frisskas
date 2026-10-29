@@ -31,6 +31,9 @@
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
+<h2 align="center"> 
+  <em>Sobre mim</em>
+</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frisskas&theme=dark&hide_border=true" />
 </div>
