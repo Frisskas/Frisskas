@@ -19,11 +19,10 @@
   <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="210" align="left" style="margin-right: 20px; margin-bottom: 5px;">
   
   <div align="left">
+    ### Olá, Sou Thavenny
 
-### Olá! Sou Thavenny
-
-### Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
-
+Estou cursando o Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio. Uso este espaço para documentar os meus estudos e mostrar a evolução dos meus projetos.
+O foco principal do meu aprendizado é a linguagem **Python** e lógica de programação. Também estou a explorar o desenvolvimento web com **HTML, CSS e JavaScript**, além de utilizar ferramentas como Git e VS Code no meu dia a dia.
   </div>
   
   <br clear="both"/>
