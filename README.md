@@ -23,10 +23,10 @@
 <div align="center">
    <!--Esse link deve ser substituido pelo link png, jpg, gif da imagem ao lado do texto sobre vocÊ enviado no seu repositorio com o nome do seu user/perfil -->
   <img src="https://github.com/Frisskas/Frisskas/blob/main/computador%20icon.png" width="210" align="left" style="margin-right: 15px; margin-bottom: 5px;">
-  
-  <h3>Olá! <b>Sou Thavenny</b></h3>
-  Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
-  
+<p style="font-size: 18px; line-height: 1.6;">
+<b>Olá! Sou Thavenny</b><br><br>
+Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
+</p>
   <br clear="both"/>
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
