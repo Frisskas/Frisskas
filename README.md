@@ -31,6 +31,11 @@
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Frisskas&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=Frisskas&theme=vision-friendly-dark&layout=compact&hide_border=true" />
+</div>
+
 <h2 align="center"> 
   <!--Esse link deve ser substituido pelo link png, jpg, gif da imagem ao lado da frase "tecnologias" enviado no seu repositorio com o nome do seu user/perfil -->
   <img src="https://github.com/Frisskas/Frisskas/blob/main/boneco%20icon.png" width="25"/> 
