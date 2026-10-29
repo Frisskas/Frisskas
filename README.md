@@ -32,7 +32,7 @@
 </div>
 
 <h2 align="center"> 
-  <em>Sobre mim</em>
+  <em>Contribuições</em>
 </h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frisskas&theme=dark&hide_border=true" />
