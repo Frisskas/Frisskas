@@ -18,13 +18,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="210" align="left" style="margin-right: 20px; margin-bottom: 5px;">
   
-  <div align="left">
-    ### Olá, Sou Thavenny
+<h3>Olá! Sou a Thavenny 👋</h3>
 
-Estou cursando o Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio. Uso este espaço para documentar os meus estudos e mostrar a evolução dos meus projetos.
-O foco principal do meu aprendizado é a linguagem **Python** e lógica de programação. Também estou a explorar o desenvolvimento web com **HTML, CSS e JavaScript**, além de utilizar ferramentas como Git e VS Code no meu dia a dia.
-  </div>
-  
+<p>Atualmente estou a cursar o Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio, em São José dos Campos - SP. Uso este espaço para documentar os meus estudos e mostrar a evolução dos meus projetos.</p>
+
+<p>O foco principal do meu aprendizado é a linguagem <b>Python</b> e lógica de programação. Também estou a explorar o desenvolvimento web com <b>HTML, CSS e JavaScript</b>, além de utilizar ferramentas como Git e VS Code no meu dia a dia. Adoro aprender novas tecnologias e construir soluções práticas!</p>
+
   <br clear="both"/>
   <hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 15px;">
 </div>
