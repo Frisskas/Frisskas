@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="220" align="left" style="margin-right: 20px; margin-bottom: 5px;">
   
-  <p style="font-size: 24px; line-height: 1.5; text-align: left;">
+  <p style="font-size: 1000px; line-height: 1.5; text-align: left;">
     <b>Olá! Sou Thavenny</b><br><br>
     Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
   </p>
