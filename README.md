@@ -20,7 +20,7 @@
   <em>Sobre mim</em>
 </h2>
 
-<div align="justify">
+<div align="center">
    <!--Esse link deve ser substituido pelo link png, jpg, gif da imagem ao lado do texto sobre vocÊ enviado no seu repositorio com o nome do seu user/perfil -->
   <img src="https://github.com/Frisskas/Frisskas/blob/main/computador%20icon.png" width="210" align="left" style="margin-right: 15px; margin-bottom: 5px;">
   
