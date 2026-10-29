@@ -16,11 +16,14 @@
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="220" align="left" style="margin-right: 20px; margin-bottom: 5px;">
+  <img src="https://raw.githubusercontent.com/Frisskas/Frisskas/main/computador%20icon.png" width="210" align="left" style="margin-right: 20px; margin-bottom: 5px;">
   
   <div align="left">
-    <h3>Olá! Sou Thavenny</h3>
-    <h4>Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.</h4>
+
+### Olá! Sou Thavenny
+
+### Estou cursando o Técnico de Desenvolvimento de Sistemas, integrado com o Ensino Médio. Aprecio aprender novas tecnologias e atualmente, dedico meus estudos ao desenvolvimento com Python.
+
   </div>
   
   <br clear="both"/>
