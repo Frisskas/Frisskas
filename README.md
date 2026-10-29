@@ -1,4 +1,4 @@
-<img src="https://github.com/Frisskas/README.md/blob/main/bannergit.jpg" width="100%"/>
+<img src="https://github.com/Frisskas/Frisskas/blob/main/lain%20gif%20banner.gif" width="100%"/>
 
 <p align="center">
   <a href="Currículo aq dps, tenho que fazer ainda kk" target="_blank">
