@@ -39,4 +39,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</div>
 </p>
