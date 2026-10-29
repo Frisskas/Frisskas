@@ -1,5 +1,5 @@
 <!--Esse link deve ser substituido pelo link png, jpg, gif do seu banner enviado no seu repositorio com o nome do seu user/perfil -->
-<img src="https://github.com/Frisskas/Frisskas/blob/main/foto%20banner%20git.jpeg" width="100%"/>
+<img src="https://github.com/Frisskas/Frisskas/blob/main/foto_banner_git_monochrome.jpeg" width="100%"/>
 
 <p align="center">
   <!--Esse link deve ser substituido pelo link do seu curriculo em pdf -->
